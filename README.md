@@ -15,5 +15,7 @@ I'm not doing any Beta testing or revision beyond my initial prints.  This isn't
 ## KNOWN ISSUES
 This project has been ongoing for a long time. Somewhere in the middle I did a major calibration on the main printer I was using because i was noticing the dimensional accuracy was off.  This is leading to issues with new parts fitting into the frame.  I will try to address this before the final release, but know that things may require trimming or shimming or both.  At least until I can go in and rework the whole the fiel, which realistically probably won't happen any time soon. I will try to document this more specifically in the full release. 
 
+
+## SUPPORT THE CHANNEL
 <a href="https://www.buymeacoffee.com/WjRBDa3dZ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
