@@ -12,9 +12,18 @@ Similar to the 3rd Wheel model I posted. I feel like the foot drives were really
 The 3D files are free for download. I'm happy to distribute these files for free but they are not guaranteed to work. 
 I'm didn't do any Beta testing or revision beyond my initial prints.  This isn't an "offical" release in anyway, these are just the files I used and worked with which I am sharing for other builders.  Any time/money/filament/sanity lost due to something not working is a risk you have to take before downloading these files.  If you're downloading these files please know that I have already invested a lot of time/money/filament/sanity/hair into this project, so please consider contributing to the channel below by simply buying me a coffee. 
 
-## BILL OF MATERIALS (coming soon)
+## BILL OF MATERIALS 
+### McMaster-Carr 
+-2289T3    - Multidirectional Skate Wheel   (x2)
+-91280A739 - M12 Hex Screw (1 pack)
+-1327K124  - Shafting (axle for Multidirectional Skate Wheel) (x2)
+-93635A353 - M8 Bolt for locking 2-3-2 angle at top of foot (x2)
+-90000A188 - 3/4" Wood Screws (1 Pack)
+-90000A200 - 1 5/8" Wood Screws (1 Pack)
 
-## ASSEMBLY INSTRUCTIONS (coming soon)
+
+### SDP/SI 
+A 6R23M095150 - HTD3m Belt.  15mm Wide, 285mm Long. (x2)
 
 
 
