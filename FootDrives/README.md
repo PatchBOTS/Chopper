@@ -14,12 +14,12 @@ I'm didn't do any Beta testing or revision beyond my initial prints.  This isn't
 
 ## BILL OF MATERIALS 
 ### McMaster-Carr 
--2289T3    - Multidirectional Skate Wheel   (x2)
--91280A739 - M12 Hex Screw (1 pack)
--1327K124  - Shafting (axle for Multidirectional Skate Wheel) (x2)
--93635A353 - M8 Bolt for locking 2-3-2 angle at top of foot (x2)
--90000A188 - 3/4" Wood Screws (1 Pack)
--90000A200 - 1 5/8" Wood Screws (1 Pack)
+-2289T3    - Multidirectional Skate Wheel   (x2)  
+-91280A739 - M12 Hex Screw (1 pack)  
+-1327K124  - Shafting (axle for Multidirectional Skate Wheel) (x2)  
+-93635A353 - M8 Bolt for locking 2-3-2 angle at top of foot (x2)  
+-90000A188 - 3/4" Wood Screws (1 Pack)  
+-90000A200 - 1 5/8" Wood Screws (1 Pack)  
 
 
 ### SDP/SI 
