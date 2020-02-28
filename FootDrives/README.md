@@ -25,6 +25,9 @@ I'm didn't do any Beta testing or revision beyond my initial prints.  This isn't
 ### SDP/SI 
 A 6R23M095150 - HTD3m Belt.  15mm Wide, 285mm Long. (x2)
 
+### Motor (I got this from eBay, but shop around. I think I payed about $30 per motor). 
+Currie Technologies Scooter Motor - 24V DC - 135W - MY6812 - 3000 RPM
+
 
 
 ## SUPPORT THE CHANNEL
